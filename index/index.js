@@ -12,3 +12,7 @@ function z(){
 function z(){
     console.log(2222)
 }
+
+function b(){
+    console.log('b')
+}
