@@ -16,3 +16,12 @@ function z(){
 function b(){
     console.log('b')
 }
+
+
+function b(){
+    console.log('f')
+}
+
+function o(){
+    console.log('o')
+}
