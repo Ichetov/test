@@ -25,3 +25,5 @@ function b(){
 function o(){
     console.log('o')
 }
+
+console.log('aaa')
